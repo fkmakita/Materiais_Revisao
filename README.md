@@ -1,4 +1,4 @@
-# Materiais-Revisao
+# Materiais_Revisao
  Materiais de revisão para algumas bibliotecas
 
 Revisão de Numpy, Pandas e Modelos Estatísticos com o material do curso de <a href="https://www.udemy.com/user/fernando-amaral-3/">Formação Cientista de Dados com Python e R [2022]</a> do professor Fernando Amaral
